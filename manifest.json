@@ -2,7 +2,7 @@
   "name": "NodeMarket",
     "short_name": "Node",
     "description": "A Market Application",
-    "start_url": "index.html",
+    "start_url": "/node-market",
     "scope": "./",
     "display": "standalone",
     "orientation": "portrait-primary",
