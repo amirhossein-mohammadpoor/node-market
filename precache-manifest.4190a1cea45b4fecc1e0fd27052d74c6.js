@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8633210ea2376170b365efefb2a66eb",
+    "revision": "c77040a5b6377fa3e28b77b6fe650c34",
     "url": "/node-market/index.html"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/css/11.804f1e7f.chunk.css"
   },
   {
-    "revision": "080fe985f1606e5a5df9",
+    "revision": "766cacb40b5d281ac514",
     "url": "/node-market/static/css/12.ba7a645e.chunk.css"
   },
   {
-    "revision": "c2ceef745221be1c518c",
+    "revision": "f6a96a68699abf58b6b3",
     "url": "/node-market/static/css/13.3ee91685.chunk.css"
   },
   {
@@ -36,11 +36,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/css/17.c8593fbb.chunk.css"
   },
   {
-    "revision": "5b441d24c48e1903ad89",
+    "revision": "efd3777913d9722308dc",
     "url": "/node-market/static/css/18.38f46048.chunk.css"
   },
   {
-    "revision": "3edd85b32fac7fdab315",
+    "revision": "3f4ec2e0db85ddda5c80",
     "url": "/node-market/static/css/3.c3b68ffc.chunk.css"
   },
   {
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/css/6.5cc2ad0f.chunk.css"
   },
   {
-    "revision": "fb03c0c371343caa15e7",
+    "revision": "2fb98328819f72dd5243",
     "url": "/node-market/static/css/7.6805de0a.chunk.css"
   },
   {
@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/css/9.a7986a0e.chunk.css"
   },
   {
-    "revision": "c846427dcc763379d76e",
+    "revision": "b7faa1c24ab1d4762cc4",
     "url": "/node-market/static/css/main.473c93aa.chunk.css"
   },
   {
@@ -84,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/js/11.48596795.chunk.js"
   },
   {
-    "revision": "080fe985f1606e5a5df9",
-    "url": "/node-market/static/js/12.c4bfb80a.chunk.js"
+    "revision": "766cacb40b5d281ac514",
+    "url": "/node-market/static/js/12.b7e64345.chunk.js"
   },
   {
-    "revision": "c2ceef745221be1c518c",
-    "url": "/node-market/static/js/13.7f0de48d.chunk.js"
+    "revision": "f6a96a68699abf58b6b3",
+    "url": "/node-market/static/js/13.9c9a2a40.chunk.js"
   },
   {
     "revision": "b138e61bdc6b2265b932",
@@ -108,20 +108,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/js/17.d2dfb8d2.chunk.js"
   },
   {
-    "revision": "5b441d24c48e1903ad89",
-    "url": "/node-market/static/js/18.0f934b5e.chunk.js"
+    "revision": "efd3777913d9722308dc",
+    "url": "/node-market/static/js/18.3db18e71.chunk.js"
   },
   {
     "revision": "4e9e63f60e050794d946",
     "url": "/node-market/static/js/19.d7bbe5dc.chunk.js"
   },
   {
-    "revision": "3edd85b32fac7fdab315",
-    "url": "/node-market/static/js/3.92660da4.chunk.js"
+    "revision": "3f4ec2e0db85ddda5c80",
+    "url": "/node-market/static/js/3.d61bd19d.chunk.js"
   },
   {
     "revision": "8a0f87d4ff9462a28d37926fe68f0ebe",
-    "url": "/node-market/static/js/3.92660da4.chunk.js.LICENSE.txt"
+    "url": "/node-market/static/js/3.d61bd19d.chunk.js.LICENSE.txt"
   },
   {
     "revision": "9e3864970bd699318709",
@@ -136,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/js/6.b35c47b8.chunk.js"
   },
   {
-    "revision": "fb03c0c371343caa15e7",
-    "url": "/node-market/static/js/7.a1e903fc.chunk.js"
+    "revision": "2fb98328819f72dd5243",
+    "url": "/node-market/static/js/7.758149cf.chunk.js"
   },
   {
     "revision": "94f395f1ebe3d9b4434c",
@@ -148,12 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/js/9.8d71d485.chunk.js"
   },
   {
-    "revision": "c846427dcc763379d76e",
-    "url": "/node-market/static/js/main.db5fb303.chunk.js"
+    "revision": "b7faa1c24ab1d4762cc4",
+    "url": "/node-market/static/js/main.a8d95442.chunk.js"
   },
   {
-    "revision": "621edadc36dcd1fccdf5",
-    "url": "/node-market/static/js/runtime-main.6635ff16.js"
+    "revision": "40f7c2c6539185bac48e",
+    "url": "/node-market/static/js/runtime-main.dc13040d.js"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
