@@ -176,7 +176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "4a3a3e1b7f161bb2873261ea355c8658",
+    "revision": "67a82557a6b74c0eaf933a8791dacfac",
     "url": "/node-market/sw.js"
   }
 ]);
