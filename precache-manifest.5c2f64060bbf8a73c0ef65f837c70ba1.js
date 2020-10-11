@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bad19611e10971ac90d7aa6d9071c615",
+    "revision": "995880e773b03f6852b4f9c247584421",
     "url": "/node-market/index.html"
   },
   {
@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/css/9.a7986a0e.chunk.css"
   },
   {
-    "revision": "833d89333ddde8d3bffd",
+    "revision": "a4f3b37f2860fd37c32d",
     "url": "/node-market/static/css/main.06b795b4.chunk.css"
   },
   {
@@ -148,8 +148,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/js/9.b038e5fb.chunk.js"
   },
   {
-    "revision": "833d89333ddde8d3bffd",
-    "url": "/node-market/static/js/main.e393957f.chunk.js"
+    "revision": "a4f3b37f2860fd37c32d",
+    "url": "/node-market/static/js/main.6d9bfed4.chunk.js"
   },
   {
     "revision": "eb360e3641a7c5f2ba64",
