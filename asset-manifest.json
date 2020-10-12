@@ -3,10 +3,10 @@
     "static/js/0.6f9a4fd3.chunk.js": "/node-market/static/js/0.6f9a4fd3.chunk.js",
     "static/js/0.6f9a4fd3.chunk.js.map": "/node-market/static/js/0.6f9a4fd3.chunk.js.map",
     "main.css": "/node-market/static/css/main.05ee5e84.chunk.css",
-    "main.js": "/node-market/static/js/main.2091c455.chunk.js",
-    "main.js.map": "/node-market/static/js/main.2091c455.chunk.js.map",
-    "runtime-main.js": "/node-market/static/js/runtime-main.726df73f.js",
-    "runtime-main.js.map": "/node-market/static/js/runtime-main.726df73f.js.map",
+    "main.js": "/node-market/static/js/main.afca6457.chunk.js",
+    "main.js.map": "/node-market/static/js/main.afca6457.chunk.js.map",
+    "runtime-main.js": "/node-market/static/js/runtime-main.0c513915.js",
+    "runtime-main.js.map": "/node-market/static/js/runtime-main.0c513915.js.map",
     "static/css/3.c3b68ffc.chunk.css": "/node-market/static/css/3.c3b68ffc.chunk.css",
     "static/js/3.f0583be3.chunk.js": "/node-market/static/js/3.f0583be3.chunk.js",
     "static/js/3.f0583be3.chunk.js.map": "/node-market/static/js/3.f0583be3.chunk.js.map",
@@ -22,8 +22,8 @@
     "static/js/7.abd8427e.chunk.js": "/node-market/static/js/7.abd8427e.chunk.js",
     "static/js/7.abd8427e.chunk.js.map": "/node-market/static/js/7.abd8427e.chunk.js.map",
     "static/css/8.7783d558.chunk.css": "/node-market/static/css/8.7783d558.chunk.css",
-    "static/js/8.cdb37ab3.chunk.js": "/node-market/static/js/8.cdb37ab3.chunk.js",
-    "static/js/8.cdb37ab3.chunk.js.map": "/node-market/static/js/8.cdb37ab3.chunk.js.map",
+    "static/js/8.388f0ab9.chunk.js": "/node-market/static/js/8.388f0ab9.chunk.js",
+    "static/js/8.388f0ab9.chunk.js.map": "/node-market/static/js/8.388f0ab9.chunk.js.map",
     "static/css/9.a7986a0e.chunk.css": "/node-market/static/css/9.a7986a0e.chunk.css",
     "static/js/9.304a44e5.chunk.js": "/node-market/static/js/9.304a44e5.chunk.js",
     "static/js/9.304a44e5.chunk.js.map": "/node-market/static/js/9.304a44e5.chunk.js.map",
@@ -57,7 +57,7 @@
     "static/js/19.a99c5ea1.chunk.js": "/node-market/static/js/19.a99c5ea1.chunk.js",
     "static/js/19.a99c5ea1.chunk.js.map": "/node-market/static/js/19.a99c5ea1.chunk.js.map",
     "index.html": "/node-market/index.html",
-    "precache-manifest.84a60460d0479e1eb011047c5def828f.js": "/node-market/precache-manifest.84a60460d0479e1eb011047c5def828f.js",
+    "precache-manifest.1b6d580520a8a8900a0e03b99108e63f.js": "/node-market/precache-manifest.1b6d580520a8a8900a0e03b99108e63f.js",
     "service-worker.js": "/node-market/service-worker.js",
     "static/css/10.a60af3e9.chunk.css.map": "/node-market/static/css/10.a60af3e9.chunk.css.map",
     "static/css/11.804f1e7f.chunk.css.map": "/node-market/static/css/11.804f1e7f.chunk.css.map",
@@ -85,10 +85,10 @@
     "sw.js.map": "/node-market/sw.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.726df73f.js",
+    "static/js/runtime-main.0c513915.js",
     "static/css/3.c3b68ffc.chunk.css",
     "static/js/3.f0583be3.chunk.js",
     "static/css/main.05ee5e84.chunk.css",
-    "static/js/main.2091c455.chunk.js"
+    "static/js/main.afca6457.chunk.js"
   ]
 }
