@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad0b1a21f6149ad6dd2fc8023f896498",
+    "revision": "cd01b5f2b68374c9832eb63b7d94d287",
     "url": "/node-market/index.html"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/css/11.804f1e7f.chunk.css"
   },
   {
-    "revision": "eb008429bdd28584118f",
+    "revision": "b9989c5f153d898b1d58",
     "url": "/node-market/static/css/12.ba7a645e.chunk.css"
   },
   {
-    "revision": "cd34657fe3fbddc057a2",
+    "revision": "cea4644abab7b70e34f3",
     "url": "/node-market/static/css/13.3ee91685.chunk.css"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/css/5.44a50480.chunk.css"
   },
   {
-    "revision": "c2df0b71f8a399064681",
+    "revision": "7bbb7cbc1efdcab4f9df",
     "url": "/node-market/static/css/6.5cc2ad0f.chunk.css"
   },
   {
@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/css/7.6805de0a.chunk.css"
   },
   {
-    "revision": "96f6e447cda5ee6387fe",
+    "revision": "8df22bc762b2e11db5a6",
     "url": "/node-market/static/css/8.7783d558.chunk.css"
   },
   {
@@ -84,12 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/js/11.414da0a0.chunk.js"
   },
   {
-    "revision": "eb008429bdd28584118f",
-    "url": "/node-market/static/js/12.8c53cf23.chunk.js"
+    "revision": "b9989c5f153d898b1d58",
+    "url": "/node-market/static/js/12.33af2588.chunk.js"
   },
   {
-    "revision": "cd34657fe3fbddc057a2",
-    "url": "/node-market/static/js/13.814cae2a.chunk.js"
+    "revision": "cea4644abab7b70e34f3",
+    "url": "/node-market/static/js/13.988474b2.chunk.js"
   },
   {
     "revision": "bc688a41e42518ef9066",
@@ -132,16 +132,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/js/5.77fe2d96.chunk.js"
   },
   {
-    "revision": "c2df0b71f8a399064681",
-    "url": "/node-market/static/js/6.0a310ba5.chunk.js"
+    "revision": "7bbb7cbc1efdcab4f9df",
+    "url": "/node-market/static/js/6.4a29e30e.chunk.js"
   },
   {
     "revision": "9a81746d02e7d289dba5",
     "url": "/node-market/static/js/7.ae1daa1b.chunk.js"
   },
   {
-    "revision": "96f6e447cda5ee6387fe",
-    "url": "/node-market/static/js/8.4b819d44.chunk.js"
+    "revision": "8df22bc762b2e11db5a6",
+    "url": "/node-market/static/js/8.b56ee512.chunk.js"
   },
   {
     "revision": "4e8e7cb50894ba0d3843",
@@ -152,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-market/static/js/main.338575e4.chunk.js"
   },
   {
-    "revision": "eb360e3641a7c5f2ba64",
-    "url": "/node-market/static/js/runtime-main.592765cd.js"
+    "revision": "37f44f185d886675fbf4",
+    "url": "/node-market/static/js/runtime-main.5887f2bb.js"
   },
   {
     "revision": "58144455a071730528cf8ef75b18f1b4",
